@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# User-specific stuff:
+/.idea
+# IntelliJ
+/target
+
+TestTask.iml
